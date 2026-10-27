@@ -11,3 +11,7 @@ Favorite Subject
 Java
 HTML
 DSA
+
+
+
+<img width="994" height="513" alt="image" src="https://github.com/user-attachments/assets/9ed2df1b-2cda-4e6e-b735-3fc23b060a8c" />
